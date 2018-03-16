@@ -1,0 +1,15 @@
+public class Fireball {
+  private boolean doesExist;
+  
+  public Fireball() {
+    doesExist = true;
+  }
+  
+  public boolean getDoesExist() {
+    return doesExist;
+  }
+  
+  public void shootFireball() {
+    // do something
+  }
+}
